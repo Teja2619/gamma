@@ -1,3 +1,14 @@
-Team/
+
+
+# Ignore virtual environments
+venv/
+team/
+# Ignore compiled files
 *.pyc
-__pycache__/
+_pycache_/
+
+# Ignore IDE/project-specific folders
+.vscode/
+.idea/
+
+# Ignore custom folders
