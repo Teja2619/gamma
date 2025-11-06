@@ -10,5 +10,8 @@ _pycache_/
 # Ignore IDE/project-specific folders
 .vscode/
 .idea/
-
+# git rm -r --cached venv
 # Ignore custom folders
+# git add .gitignore
+# git commit -m "Update .gitignore to exclude venv folder"
+# git push origin main
