@@ -1,0 +1,8 @@
+Django
+Djangorestframework
+numpy
+pandas
+streamlit
+flake8
+black
+pytest
